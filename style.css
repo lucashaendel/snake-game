@@ -1,0 +1,22 @@
+*{
+    font-family: 'Viga', sans-serif;
+}
+body{
+    background-color: #444;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    text-transform: uppercase;
+}
+
+canvas{
+    border: 6px solid white;
+    border-radius: 20px;
+    background: linear-gradient(
+        45deg,
+        rgba(0,102,204,1.0) 0%,
+        rgb(138, 32, 133) 100%
+    );
+}
